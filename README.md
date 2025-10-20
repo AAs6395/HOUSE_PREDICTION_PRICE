@@ -421,7 +421,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- Your Name - Initial work - [YourGitHub](https://github.com/yourusername)
+- Your Name - Initial work - [AAs6395](https://github.com/AAs6395)
 
 ## 🙏 Acknowledgments
 
@@ -433,8 +433,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 For questions or support, please open an issue or contact:
-- Email: your.email@example.com
-- GitHub: [@yourusername](https://github.com/yourusername)
+- Email: jaashish109@gmail.com
+- GitHub: [@AAs6395](https://github.com/AAs6395)
 
 ## 🔮 Future Enhancements
 
@@ -449,5 +449,6 @@ For questions or support, please open an issue or contact:
 - [ ] Dark mode toggle
 
 ---
+
 
 **⭐ If you found this project helpful, please consider giving it a star!**
